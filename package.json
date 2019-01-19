@@ -5,6 +5,7 @@
   "dependencies": {
     "gulp": "^4.0.0",
     "gulp-typescript": "^5.0.0",
+    "merge2": "^1.2.3",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts-ts": "3.1.0"
@@ -12,6 +13,7 @@
   "scripts": {
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
+    "gulp": "gulp",
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject"
   },
